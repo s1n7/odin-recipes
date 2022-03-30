@@ -1,3 +1,15 @@
-body{
+body {
     text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(141, 165, 164);
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
 }
