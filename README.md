@@ -1,2 +1,2 @@
 # odin-recipes
-This project is purely HTML. Its purpose is to deepen my HTML knowledge and make use of the core HTML elements and their attributes etc. 
+This is an HTML and CSS project. Its purpose is to deepen my HTML and CSS knowledge and apply my knowledge on a small real-world project.
